@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1727076918 source:c:\users\asus\documents\c++\pelajaran_01\main.cpp
+	<iostream>
+
+1727073846 source:c:\users\asus\documents\c++\pelajaran_01\src\pertemuan_02.cpp
+	"Pertemuan_02.h"
+
+1727073845 c:\users\asus\documents\c++\pelajaran_01\include\pertemuan_02.h
+
